@@ -1,16 +1,12 @@
 # Hi 👋, I'm Aman Kumar
 **A passionate  Data Scientist || ML Engineer || AI Engineer || Front-End Developer from India**
 
-
-- 🔭 **I’m currently working on:** Resume Screening Using NLP
 - 🌱 **I’m currently learning:** Gen-AI, Agentic AI
 - 😄 **Pronouns:** Aman
 - ⚡ **Fun fact:**  I don’t just love Tech, Traveling, Cricket, Singing, Drawing, and Geopolitics — they’ve all filed a lifetime commitment to love me back!
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
 
 
 # 💻 Tech Stack:
