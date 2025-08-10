@@ -29,7 +29,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_amankr.11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-kumar-0b6366252) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Amankr_Tiwari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aman.kumar842100@gmail.com) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/Amankr_11/) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/amantiwari_11/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_amankr.11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-kumar-0b6366252) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Amankr_Tiwari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aman.kumar842100@gmail.com)
+ 
 
 
 ---
