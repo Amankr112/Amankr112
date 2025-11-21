@@ -1,5 +1,5 @@
-# Hi 👋, I'm Aman Kumar
-**A passionate  Data Scientist || ML Engineer || AI Engineer || Front-End Developer from India**
+# Hi 👋, I'm Aman
+**A passionate  Data Scientist || ML Engineer || AI Engineer from India**
 
 - I don’t just love Tech, Traveling, Cricket, Singing, Drawing, and Geopolitics — they’ve all filed a lifetime commitment to love me back!
 
