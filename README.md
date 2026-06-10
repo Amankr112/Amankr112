@@ -1,8 +1,7 @@
 # Hi 👋, I'm Aman
 **A passionate  Data Scientist || ML Engineer || AI Engineer from India**
 
-- I don’t just love Tech, Traveling, Cricket, Singing, Drawing, and Geopolitics — they’ve all filed a lifetime commitment to love me back!
-
+- Beyond tech, I enjoy traveling, cricket, singing, drawing, and following global geopolitics — interests that keep me creative, curious, and balanced.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
