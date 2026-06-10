@@ -2,8 +2,6 @@
 **A passionate  Data Scientist || ML Engineer || AI Engineer from India**
 
 - Passionate about Tech, with equal enthusiasm for Traveling, Cricket, Singing, Drawing, and Geopolitics.
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amankr112&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 # 💻 Tech Stack:
@@ -19,7 +17,6 @@
 
 
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🌐 Socials:
