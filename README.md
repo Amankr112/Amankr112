@@ -1,5 +1,5 @@
 # Hi 👋, I'm Aman
-**A passionate  Data Scientist || ML Engineer || AI Engineer from India**
+**A passionate  Data Scientist from India**
 
 - Passionate about Tech, with equal enthusiasm for Traveling, Cricket, Singing, Drawing, and Geopolitics.
 
